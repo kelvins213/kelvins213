@@ -47,5 +47,4 @@
 ```
 🔭 Currently working with front-end, back-end and APIs
 🌱 Learning Flutter and NodeJS
-📫 kelvinotilio@gmail.com
 ```

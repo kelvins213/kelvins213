@@ -12,7 +12,9 @@
 
 </div>
 
-<div align="center"><br>
+## Currently Coding
+  
+<div>
   
   <img align="center" alt="Kelvin-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   
@@ -28,6 +30,19 @@
   
   <img align="center" alt="Kelvin-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
+</div>
+<br>
+  
+## Once Coded
+ 
+<div>
+  <img align="center" alt="Kelvin-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+ 
+  <img align="center" alt="Kelvin-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  
+  <img align="center" alt="Kelvin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
+  <img align="center" alt="Kelvin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
 ##

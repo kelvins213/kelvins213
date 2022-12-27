@@ -12,7 +12,7 @@
 
 </div>
 
-## Currently Coding
+# Currently Coding
   
 <div>
   
@@ -33,7 +33,7 @@
 </div>
 <br>
   
-## Once Coded
+# Once Coded
  
 <div>
   <img align="center" alt="Kelvin-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">

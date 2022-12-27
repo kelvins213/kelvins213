@@ -30,6 +30,12 @@
 
 </div>
   
+##
+  
+<div>
+  <a href="https://www.linkedin.com/in/kelvin-holanda-23b586250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+    
 ## Today's Me
 ```
 🔭 Currently working with front-end, back-end and APIs

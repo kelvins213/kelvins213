@@ -29,7 +29,8 @@
   <img align="center" alt="Kelvin-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   
   <img align="center" alt="Kelvin-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-
+  
+  <img align="center" alt="Kelvin-Sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/sqlite/sqlite-original.svg"> 
 </div>
 <br>
   

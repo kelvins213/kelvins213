@@ -12,7 +12,7 @@
 
 </div>
 
-# Currently Coding
+# :computer: Currently Coding
   
 <div>
   
@@ -34,7 +34,7 @@
 </div>
 <br>
   
-# Once Coded
+# :hourglass_flowing_sand: Once Coded
  
 <div>
   <img align="center" alt="Kelvin-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -47,7 +47,7 @@
 </div>
 <br>
 
-# Tools
+# :wrench: Tools
   
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=4169E1&labelColor=0D1117)&nbsp; 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;

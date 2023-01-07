@@ -72,28 +72,16 @@
 ##
 
 # My History
-  
-<div align="center">
-  
-  <div float="left">
-    
-    I started learning how to code when I was 14. That said, with 15, I've applied for Federal Institute's (IF) exam and passed. 
 
-    There, where I'm already finishing the course, I learned programming languages like C, C++, Python, Java, SQL (database tools), Javascript, HTML, CSS     and Flutter framework, besides Git and Github. 
-
-    Today, still in IF, I'm teaching and helping the students with C and Python, mainly with functional programming. 
-
-    Besides this type, in my expirience, I also know about object programming, which I learned with Java and still using it, today, in Javascript and         Flutter. Finally, I also learned the basics about Linux, with Virtual Box and my own laptop.
-  </div>
   
-  <div float="right">
-    <img src="https://user-images.githubusercontent.com/103438311/211171315-cad8dec5-86dc-442d-94a6-f5614183f262.jpg" alt="my photo" width="400"/>
-  </div>
-  
-  </div>
   
 # <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px> Today's Me
 ```
 🔭 Currently working with front-end, back-end and APIs
 🌱 Learning Flutter and NodeJS
 ```
+  
+  
+  
+  
+  

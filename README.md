@@ -19,7 +19,12 @@
   <img align="center" alt="Kelvin-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
  
   <img align="center" alt="Kelvin-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+</div>
+<br>
   
+# :hourglass_flowing_sand: Once Coded
+ 
+<div>
   <img align="center" alt="Kelvin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="Kelvin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,12 +36,6 @@
   <img align="center" alt="Kelvin-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   
   <img align="center" alt="Kelvin-Sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/sqlite/sqlite-original.svg"> 
-</div>
-<br>
-  
-# :hourglass_flowing_sand: Once Coded
- 
-<div>
   <img align="center" alt="Kelvin-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  
   <img align="center" alt="Kelvin-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
